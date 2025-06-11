@@ -1,11 +1,12 @@
 # Hi there 💬, I'm Sanjay Kumar
 
-I am an engineering student 💮 pursuing a Bachelor's of Technology in Electrical Engineering at IIT Dhanbad.
-<br>
-## 🛠️ Skills & Expertise
+Electrical Engineering student at IIT Dhanbad | Full Stack Developer (MERN) | Algorithmic Trading Enthusiast
 
-- ✅ Full Stack Developer skilled in **MERN (MongoDB, Express.js, React, Node.js)**.
-- Passionate about Coding and Football.
+## 🛠️ Skills & Expertise
+- **Full Stack Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
+- **Algorithmic Finance**: RSI, Z-score analysis, Support/Resistance modeling
+- **Cloud & DevOps**: AWS, Docker
+- **Passions**: Coding, Football, Financial Markets
 
 <br>
 
