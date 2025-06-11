@@ -52,4 +52,4 @@ I am an engineering student 💮 pursuing a Bachelor's of Technology in Electric
 
 ## 💡 About Me
 
-Passionate about software development, I specialize in full-stack development with expertise in MERN . Eager to contribute to cutting-edge tech projects and always striving to learn more and grow. Let's connect and collaborate on exciting innovations!
+Electrical engineer turned full-stack developer with a passion for building data-intensive applications.. Eager to contribute to cutting-edge tech projects and always striving to learn more and grow. Let's connect and collaborate on exciting innovations!
