@@ -4,7 +4,6 @@ Electrical Engineering student at IIT Dhanbad | Full Stack Developer (MERN) | Al
 
 ## 🛠️ Skills & Expertise
 - **Full Stack Development**: MERN Stack (MongoDB, Express.js, React, Node.js)
-- **Cloud & DevOps**: AWS, Docker
 - **Passions**: Coding, Football, Financial Markets
 
 <br>
@@ -24,12 +23,8 @@ Electrical Engineering student at IIT Dhanbad | Full Stack Developer (MERN) | Al
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### Others
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
